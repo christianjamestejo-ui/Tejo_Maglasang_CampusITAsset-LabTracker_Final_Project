@@ -1,0 +1,7 @@
+﻿@MT_Campus_IT_Asset___Lab_Tracker_HostAddress = http://localhost:5293
+
+GET {{MT_Campus_IT_Asset___Lab_Tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

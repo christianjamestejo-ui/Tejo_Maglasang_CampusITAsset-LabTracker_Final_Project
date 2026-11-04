@@ -1,0 +1,7 @@
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.csproj.AssemblyReference.cache
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.AssemblyInfoInputs.cache
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.AssemblyInfo.cs
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.csproj.CoreCompileInputs.cache
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.MvcApplicationPartsAssemblyInfo.cs
+/Users/cjustine.tejo/Desktop/TEJOAPI/MT_Campus_IT_Asset_&_Lab_Tracker/MT_Campus_IT_Asset_&_Lab_Tracker/obj/Debug/net8.0/MT_Campus_IT_Asset_&_Lab_Tracker.MvcApplicationPartsAssemblyInfo.cache
