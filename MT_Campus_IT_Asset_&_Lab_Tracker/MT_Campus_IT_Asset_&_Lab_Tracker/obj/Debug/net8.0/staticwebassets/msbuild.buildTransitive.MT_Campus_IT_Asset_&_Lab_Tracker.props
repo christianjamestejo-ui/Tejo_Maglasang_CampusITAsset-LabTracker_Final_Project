@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MT_Campus_IT_Asset_&amp;_Lab_Tracker.props" />
+</Project>
