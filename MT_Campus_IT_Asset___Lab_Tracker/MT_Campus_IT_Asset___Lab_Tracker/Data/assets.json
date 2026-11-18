@@ -1,0 +1,19 @@
+[
+  {
+    "$assetType": "workstation",
+    "OperatingSystem": "Windows",
+    "IpAddress": "120.0.0.1",
+    "MacAddress": "oqhwugigeiuc",
+    "BorrowerId": null,
+    "AssetId": "123",
+    "AssetName": "qiiiweicvbiwec",
+    "AssetTag": "gwiucgiuwegbec",
+    "PurchasePrice": 45000,
+    "UsefulLifeMonths": 36,
+    "PurchaseDate": "2026-11-18T00:00:00+08:00",
+    "SalvagePrice": 5000,
+    "_annualDepreciationExpense": 13333.333333333334,
+    "Status": "Available",
+    "Condition": "Good"
+  }
+]
