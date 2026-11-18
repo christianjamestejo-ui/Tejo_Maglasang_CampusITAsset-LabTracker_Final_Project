@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT_Campus_IT_Asset___Lab_Tracker", "MT_Campus_IT_Asset___Lab_Tracker\MT_Campus_IT_Asset___Lab_Tracker.csproj", "{047A53AB-523F-4472-9D86-C5688C7B762F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT_Campus_IT_Asset___Lab_TrackerConsole", "MT_Campus_IT_Asset___Lab_TrackerConsole\MT_Campus_IT_Asset___Lab_TrackerConsole.csproj", "{FA77352E-DB11-4B88-BE77-280CDC1134C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047A53AB-523F-4472-9D86-C5688C7B762F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047A53AB-523F-4472-9D86-C5688C7B762F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047A53AB-523F-4472-9D86-C5688C7B762F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047A53AB-523F-4472-9D86-C5688C7B762F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA77352E-DB11-4B88-BE77-280CDC1134C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA77352E-DB11-4B88-BE77-280CDC1134C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA77352E-DB11-4B88-BE77-280CDC1134C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA77352E-DB11-4B88-BE77-280CDC1134C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EB07BC-5DEB-4E46-A7BD-9F5DB7AEAA6E}
+	EndGlobalSection
+EndGlobal
